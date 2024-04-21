@@ -14,6 +14,7 @@ module.exports = {
     // 'linebreak-style': 0,
     'linebreak-style': ['error', process.platform === 'win32' ? 'windows' : 'unix'],
     'class-methods-use-this': 'off',
-    'import/no-extraneous-dependencies': 'off',
+    'consistent-return': 'off',
+    camelcase: 'off',
   },
 };
