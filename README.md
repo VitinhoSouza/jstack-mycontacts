@@ -10,7 +10,7 @@ This is an API that has ten endpoints related to contacts and their categories. 
 - **Create Contact** (*POST*): 'baseUrl/contacts', which expects an object 
 {name: (string), email: (string), phone (string), category_id (string)} in JSON format;
 - **Update Contact** (*PUT*): 'baseUrl/contacts/:contactId', which expects an object
-- {name: (string), email: (string), phone (string), category_id (string)} in JSON format;
+{name: (string), email: (string), phone (string), category_id (string)} in JSON format;
 - **Find Contact By Id** (*GET*): 'baseUrl/contacts/:contactId';
 - **Delete Contact** (*Delete*): 'baseUrl/contacts/:contactId';
 
