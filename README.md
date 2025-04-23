@@ -27,5 +27,5 @@ Built with **Express** + **Node**. Also used:
 - **express-async-errors** to handle asynchronous errors;
 
 ## Get started:
-- Open the terminal inside the project folder and do: *yarn*. When all packages are installed, do *yarn dev* or *yarn dev* to start in development mode.
+- Open the terminal inside the project folder and do: *yarn*. When all packages are installed, do *yarn dev* to start in development mode.
 - You need to have PostgreSQL configured and running on your machine.
